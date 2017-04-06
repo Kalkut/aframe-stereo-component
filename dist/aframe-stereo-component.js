@@ -92,7 +92,7 @@
 
 	          this.video_click_event_added = false;
 
-	          this.material_is_a_video = false;
+	          this.material_is_a_video = true;
 
 	          // Check if material is a video from html tag (object3D.material.map instanceof THREE.VideoTexture does not
 	          // always work
